@@ -1,0 +1,237 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: lamoud-pregnancy-calculator 1.0.0\n"
+"POT-Creation-Date: 2021-10-03 14:28+0200\n"
+"PO-Revision-Date: 2021-04-01 23:10+0200\n"
+"Last-Translator: \n"
+"Language-Team: info@lamoud.com\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=6; plural=(n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5);\n"
+"Language: ar\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr_e;esc_html__;esc_html_e;sprintf\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: includes/calc_form.php:5 includes/calc_form.php:10
+msgid "Day is required"
+msgstr ""
+
+#: includes/calc_form.php:17 includes/calc_form.php:22
+msgid "Month is required"
+msgstr ""
+
+#: includes/calc_form.php:29 includes/calc_form.php:34
+msgid "Year is required"
+msgstr ""
+
+#: includes/calc_form.php:58
+msgid "Last menstrual period date:"
+msgstr ""
+
+#: includes/calc_form.php:64
+msgid "Day"
+msgstr ""
+
+#: includes/calc_form.php:77
+msgid "Month"
+msgstr ""
+
+#: includes/calc_form.php:90
+msgid "Year"
+msgstr ""
+
+#: includes/calc_form.php:99
+msgid "CALC"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:33
+msgid "Saturday"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:34
+msgid "Sunday"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:35
+msgid "Monday"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:36
+msgid "Tuesday"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:37
+msgid "Wednesday"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:38
+msgid "Thursday"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:39
+msgid "Friday"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:43
+msgid "January"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:44
+msgid "February"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:45
+msgid "March"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:46
+msgid "April"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:47
+msgid "May"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:48
+msgid "June"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:49
+msgid "July"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:50
+msgid "August"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:51
+msgid "September"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:52
+msgid "October"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:53
+msgid "November"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:54
+msgid "December"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:65
+#: includes/lamoud_pergnancy_content.php:72
+#: includes/lamoud_pergnancy_content.php:79
+msgid "Attention!"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:66
+msgid ""
+"You set a future date for the start of your last menstrual period, though! "
+"The results will be displayed assuming that you are planning to become "
+"pregnant at this time!"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:73
+msgid ""
+"Your due date has passed, however, don't worry ma'am, it's perfectly safe "
+"to be two weeks late for your due date!"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:80
+msgid ""
+"You entered a very old date for your last menstrual period. The maximum "
+"duration of pregnancy is 9 months and two weeks!"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:89
+msgid "Pregnancy progress..."
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:96
+msgid "Left "
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:101
+msgid "One month"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:105
+msgid "Two months"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:109
+msgid " months"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:113
+#: includes/lamoud_pergnancy_content.php:117
+msgid " month"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:120
+msgid "and"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:124
+msgid "One day"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:128
+msgid "Two days"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:132
+msgid " days"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:136
+#: includes/lamoud_pergnancy_content.php:140
+msgid " day"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:143
+msgid " approximately"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:146
+msgid "Expected due date:"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:156
+msgid "stages of your pregnancy:"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:160
+msgid "Your last cyle started on"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:165
+msgid "Estimated fertilization date"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:170
+msgid "1st Trimester"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:175
+msgid "2nd Trimester"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:180
+msgid "3rd Trimester"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:185
+msgid "Your due date is"
+msgstr ""
+
+#: includes/lamoud_pergnancy_content.php:198
+msgid "Re-calc"
+msgstr ""
